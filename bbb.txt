@@ -1,3 +1,3 @@
-これは bbb.txt<br>
+これは bbb.txt
 です
 DESU!!
