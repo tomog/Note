@@ -1,4 +1,4 @@
-これは aaa.txt<br>
-123456<br>
-ABCDEF<br>
-テスト終了！<br>
+これは aaa.txt
+123456
+ABCDEF
+テスト終了！
