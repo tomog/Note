@@ -1,3 +1,13 @@
+<html lang=ja>
+    <head>
+      <meta charset="utf-8">
+    <title> MDwiki </title>
+      <link rel="icon" href="https://raw.githubusercontent.com/tomog/tomog.github.io/main/img/yura.ico">
+	<font face="游明朝" size="5">
+	<font color=000000>  <!-- ■■■RGB指定(透明度を外した3桁(16BitRGB))■■■ -->
+	<link rel="stylesheet" href="style1.css">
+    </head>
+</html>    
 ### モード切替
 |● モード切替||
 |:-|:-|
