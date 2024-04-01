@@ -108,6 +108,12 @@
             chatMessages.appendChild(div);
             chatMessages.scrollTop = chatMessages.scrollHeight;
             messageInput.value = '';
+
+            // もしWebSocketなどで相手にメッセージを送信する場合はここで送信する処理を書く
+            // 今回は仮の実装として、同じ内容のメッセージを相手にも送信する
+            const opponentDiv = div.cloneNode(true);
+            chatMessages.appendChild(opponentDiv);
+            chatMessages.scrollTop = chatMessages.scrollHeight;
         }
     }
 </script>
